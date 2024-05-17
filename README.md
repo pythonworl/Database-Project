@@ -1,7 +1,7 @@
 # Database-Project
 
 ![Screenshot (140)](https://github.com/pythonworl/Database-Project/assets/115520031/650713ad-e05e-4541-8329-fa5f243ef815)
-t
+
 
 DATA BASE DESIGN:
 
