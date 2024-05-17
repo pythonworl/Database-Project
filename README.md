@@ -2,6 +2,10 @@
 
 ![Screenshot (140)](https://github.com/pythonworl/Database-Project/assets/115520031/650713ad-e05e-4541-8329-fa5f243ef815)
 
+To run the Code and see the interface:
+write streamlit run inter.py 
+(in the VS code terminal)
+
 
 DATA BASE DESIGN:
 
